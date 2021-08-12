@@ -1,16 +1,17 @@
-### Hi there 👋
+### Всем привет 👋
 
-<!--
-**ignatov-ru/ignatov-ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Сейчас ищу работу на позицию Frontend developer (React) !
 
-Here are some ideas to get you started:
+Мой проект **social_network** можно посмотреть ниже.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Мои контакты:&#32;&#32;
+
+<a href='mailto:denisignatov8@gmail.com'><img src='./readme_icon/gmail.svg' alt='gmail' width='12px'> denisignatov8@gmail.com</a>
+
+
+<a href='https://www.linkedin.com/in/ignatov-ru/'><img src='./readme_icon/linkedin.svg' alt='linkedin'  width='12px'> Linkedin</a>
+
+
+<a href='https://t.me/ignatov_ru'><img src='./readme_icon/telegram.svg' alt='telegram' width='12px'> Telegram</a>
