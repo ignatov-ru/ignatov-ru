@@ -1,6 +1,4 @@
-### Всем привет 👋
-
-### Мои контакты:&#32;&#32;
+### My contacts:&#32;&#32;
 
 <a href='mailto:denisignatov8@gmail.com'><img src='./readme_icon/gmail.svg' alt='gmail' width='12px'> denisignatov8@gmail.com</a>
 
