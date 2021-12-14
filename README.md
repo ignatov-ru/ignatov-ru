@@ -1,11 +1,5 @@
 ### Всем привет 👋
 
-Сейчас ищу работу на позицию Frontend developer (React) !
-
-Мой проект **social_network** можно посмотреть ниже.
-
----
-
 ### Мои контакты:&#32;&#32;
 
 <a href='mailto:denisignatov8@gmail.com'><img src='./readme_icon/gmail.svg' alt='gmail' width='12px'> denisignatov8@gmail.com</a>
